@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Troca de filamento com AMS e torre de purga</text>
+<rect x="20.0" y="50" width="104" height="82" rx="8" fill="#ffffff" stroke="#2E86AB" stroke-width="3"/>
+<text x="72.0" y="74" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#2E86AB" font-weight="bold">1. Corta</text>
+<text x="72.0" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">o filamento</text>
+<text x="72.0" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">antigo</text>
+<polygon points="125.0,86 133.0,91 125.0,96" fill="#555555"/>
+<rect x="134.0" y="50" width="104" height="82" rx="8" fill="#ffffff" stroke="#2E86AB" stroke-width="3"/>
+<text x="186.0" y="74" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#2E86AB" font-weight="bold">2. AMS</text>
+<text x="186.0" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">recolhe e</text>
+<text x="186.0" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">puxa o novo</text>
+<polygon points="239.0,86 247.0,91 239.0,96" fill="#555555"/>
+<rect x="248.0" y="50" width="104" height="82" rx="8" fill="#ffffff" stroke="#D7263D" stroke-width="3"/>
+<text x="300.0" y="74" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#D7263D" font-weight="bold">3. Purga</text>
+<text x="300.0" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">expulsa a</text>
+<text x="300.0" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">mistura</text>
+<polygon points="353.0,86 361.0,91 353.0,96" fill="#555555"/>
+<rect x="362.0" y="50" width="104" height="82" rx="8" fill="#ffffff" stroke="#F28C28" stroke-width="3"/>
+<text x="414.0" y="74" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#F28C28" font-weight="bold">4. Torre</text>
+<text x="414.0" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">limpa e</text>
+<text x="414.0" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">estabiliza</text>
+<polygon points="467.0,86 475.0,91 467.0,96" fill="#555555"/>
+<rect x="476.0" y="50" width="104" height="82" rx="8" fill="#ffffff" stroke="#2A9D4B" stroke-width="3"/>
+<text x="528.0" y="74" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#2A9D4B" font-weight="bold">5. Volta</text>
+<text x="528.0" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">à peça com</text>
+<text x="528.0" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">a cor nova</text>
+<text x="300" y="168" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Vista lateral: peça e torre crescem juntas</text>
+<rect x="60" y="370" width="480" height="12" fill="#444444"/>
+<rect x="110" y="358" width="150" height="12" fill="#F28C28"/>
+<rect x="110" y="344" width="150" height="12" fill="#F28C28"/>
+<rect x="110" y="330" width="150" height="12" fill="#F28C28"/>
+<rect x="110" y="316" width="150" height="12" fill="#2E86AB"/>
+<rect x="110" y="302" width="150" height="12" fill="#2E86AB"/>
+<rect x="110" y="288" width="150" height="12" fill="#2E86AB"/>
+<rect x="110" y="274" width="150" height="12" fill="#F28C28"/>
+<rect x="110" y="260" width="150" height="12" fill="#F28C28"/>
+<rect x="110" y="246" width="150" height="12" fill="#F28C28"/>
+<rect x="110" y="232" width="150" height="12" fill="#2E86AB"/>
+<rect x="110" y="218" width="150" height="12" fill="#2E86AB"/>
+<rect x="110" y="204" width="150" height="12" fill="#2E86AB"/>
+<rect x="380" y="358" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="358" width="70" height="12" fill="#F28C28"/>
+<rect x="380" y="344" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="330" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="316" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="316" width="70" height="12" fill="#2E86AB"/>
+<rect x="380" y="302" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="288" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="274" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="274" width="70" height="12" fill="#F28C28"/>
+<rect x="380" y="260" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="246" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="232" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="232" width="70" height="12" fill="#2E86AB"/>
+<rect x="380" y="218" width="70" height="12" fill="#BBBBBB"/>
+<rect x="380" y="204" width="70" height="12" fill="#BBBBBB"/>
+<rect x="368" y="358" width="94" height="12" fill="#888888"/>
+<text x="185" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">peça</text>
+<text x="415" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">torre</text>
+<text x="470" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#222222" font-weight="normal">borda</text>
+<text x="300" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">Faixas coloridas na torre = camadas com troca de cor</text>
+</svg>

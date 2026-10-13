@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Mapeamento: filamentos do projeto → bobinas do AMS</text>
+<text x="130" y="58" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">No projeto</text>
+<text x="470" y="58" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">No AMS</text>
+<circle cx="60" cy="95" r="16" fill="#F28C28" stroke="#555555" stroke-width="2"/>
+<text x="60" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff" font-weight="bold">1</text>
+<text x="85" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#222222" font-weight="normal">PLA laranja</text>
+<circle cx="60" cy="150" r="16" fill="#ffffff" stroke="#555555" stroke-width="2"/>
+<text x="60" y="155" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<text x="85" y="155" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#222222" font-weight="normal">PLA branco</text>
+<circle cx="60" cy="205" r="16" fill="#222222" stroke="#555555" stroke-width="2"/>
+<text x="60" y="210" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff" font-weight="bold">3</text>
+<text x="85" y="210" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#222222" font-weight="normal">PLA preto</text>
+<rect x="400" y="75" width="40" height="40" fill="#222222" stroke="#555555" stroke-width="2" rx="6"/>
+<text x="420" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">A1</text>
+<text x="450" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#222222" font-weight="normal">PLA preto</text>
+<rect x="400" y="130" width="40" height="40" fill="#F28C28" stroke="#555555" stroke-width="2" rx="6"/>
+<text x="420" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">A2</text>
+<text x="450" y="155" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#222222" font-weight="normal">PLA laranja</text>
+<rect x="400" y="185" width="40" height="40" fill="#ffffff" stroke="#555555" stroke-width="2" rx="6"/>
+<text x="420" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="bold">A3</text>
+<text x="450" y="210" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#222222" font-weight="normal">PLA branco</text>
+<rect x="400" y="240" width="40" height="40" fill="#2E86AB" stroke="#555555" stroke-width="2" rx="6"/>
+<text x="420" y="265" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">A4</text>
+<text x="450" y="265" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#222222" font-weight="normal">PETG azul</text>
+<line x1="190" y1="95" x2="394" y2="150" stroke="#555555" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="190" y1="150" x2="394" y2="205" stroke="#555555" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="190" y1="205" x2="394" y2="95" stroke="#555555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="300" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#555555" font-weight="normal">A Bambu sugere o par por tipo e cor; você pode trocar</text>
+<text x="300" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#555555" font-weight="normal">manualmente na janela de envio antes de imprimir.</text>
+
+</svg>

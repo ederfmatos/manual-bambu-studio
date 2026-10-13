@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Passar a ferro (ironing): o bico volta sobre o topo</text>
+<rect x="40" y="150" width="230" height="80" fill="#F5C16C" stroke="none" stroke-width="1" rx="0"/>
+<ellipse cx="50.0" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="69.1" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="88.2" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="107.3" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="126.4" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="145.5" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="164.6" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="183.7" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="202.8" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="221.9" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="241.0" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="260.1" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<line x1="35" y1="232" x2="275" y2="232" stroke="#444444" stroke-width="4"/>
+<text x="155" y="265" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="bold">Topo normal: sulcos entre linhas</text>
+<rect x="330" y="150" width="230" height="80" fill="#F5C16C" stroke="none" stroke-width="1" rx="0"/>
+<ellipse cx="340.0" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="359.1" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="378.2" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="397.3" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="416.4" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="435.5" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="454.6" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="473.7" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="492.8" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="511.9" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="531.0" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<ellipse cx="550.1" cy="150" rx="10" ry="7" fill="#F28C28"/>
+<rect x="330" y="141" width="230" height="6" fill="#E07010" stroke="none" stroke-width="1" rx="0"/>
+<line x1="325" y1="232" x2="565" y2="232" stroke="#444444" stroke-width="4"/>
+<polygon points="420,85 460,85 448,125 432,125" fill="#888888"/>
+<line x1="480" y1="110" x2="550" y2="110" stroke="#555555" stroke-width="2"/>
+<polygon points="550,104 562,110 550,116" fill="#555555"/>
+<text x="520" y="98" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#555555" font-weight="normal">lento, ~10% fluxo</text>
+<text x="445" y="265" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="bold">Após ironing: sulcos preenchidos</text>
+<text x="300" y="295" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">Espaçamento pequeno (≈0,1–0,15 mm) faz cada ponto ser alisado várias vezes.</text>
+
+</svg>

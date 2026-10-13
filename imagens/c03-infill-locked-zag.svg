@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="362" viewBox="0 0 600 362">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300.0" y="28.0" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Locked Zag (Zague bloqueado) — vista de cima</text>
+<rect x="40" y="48" width="260" height="260" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="44" y="52" width="252" height="252" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="49" y="57" width="242" height="242" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="72" y="80" width="196" height="196" fill="#FDEBD7" stroke="none"/>
+<path d="M269.0 60.0L269.0 296.0 M249.2 60.0L249.2 94.0 M249.2 262.0L249.2 296.0 M229.4 60.0L229.4 94.0 M229.4 262.0L229.4 296.0 M209.6 60.0L209.6 94.0 M209.6 262.0L209.6 296.0 M189.8 60.0L189.8 94.0 M189.8 262.0L189.8 296.0 M170.0 60.0L170.0 94.0 M170.0 262.0L170.0 296.0 M150.2 60.0L150.2 94.0 M150.2 262.0L150.2 296.0 M130.4 60.0L130.4 94.0 M130.4 262.0L130.4 296.0 M110.6 60.0L110.6 94.0 M110.6 262.0L110.6 296.0 M90.8 60.0L90.8 94.0 M90.8 262.0L90.8 296.0 M71.0 60.0L71.0 296.0" fill="none" stroke="#2E86AB" stroke-width="2" stroke-linecap="round"/>
+<path d="" fill="none" stroke="#F28C28" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M221.3 80.0L268.0 126.7L268.0 176.4L171.6 80.0L121.8 80.0L268.0 226.2L268.0 276.0L72.0 80.0L72.0 129.8L218.2 276.0L168.4 276.0L72.0 179.6 M72.0 229.3L118.7 276.0" fill="none" stroke="#F28C28" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="86" y="94" width="168" height="168" fill="none" stroke="#555555" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="330" y1="80" x2="360" y2="80" stroke="#2E86AB" stroke-width="3"/>
+<text x="368.0" y="85.0" font-size="13" text-anchor="start" fill="#222222">Pele (skin): faixa junto às</text>
+<text x="368.0" y="103.0" font-size="13" text-anchor="start" fill="#222222">paredes, padrão Cross Zag</text>
+<line x1="330" y1="140" x2="360" y2="140" stroke="#F28C28" stroke-width="3"/>
+<text x="368.0" y="145.0" font-size="13" text-anchor="start" fill="#222222">Esqueleto (skeleton): miolo,</text>
+<text x="368.0" y="163.0" font-size="13" text-anchor="start" fill="#222222">padrão Zig Zag</text>
+<rect x="330" y="192" width="30" height="14" fill="#FDEBD7" stroke="#555555" stroke-width="0.5"/>
+<text x="368.0" y="204.0" font-size="13" text-anchor="start" fill="#222222">Zona de travamento: as duas</text>
+<text x="368.0" y="222.0" font-size="13" text-anchor="start" fill="#222222">partes se sobrepõem</text>
+<line x1="330" y1="256" x2="360" y2="256" stroke="#555555" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="368.0" y="261.0" font-size="13" text-anchor="start" fill="#222222">Limite da profundidade da pele</text>
+<text x="300.0" y="336.0" font-size="13" text-anchor="middle" fill="#444444">Pele e esqueleto podem ter densidade e largura de linha próprias.</text>
+<text x="300.0" y="355.0" font-size="13" text-anchor="middle" fill="#444444">Pensado para peças em TPU que dobram muito, como solados.</text>
+</g>
+</svg>

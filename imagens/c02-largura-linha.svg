@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Largura da linha (corte de uma parede de 3 linhas)</text>
+<ellipse cx="88.0" cy="230" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="120.0" cy="230" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="152.0" cy="230" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="88.0" cy="204" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="120.0" cy="204" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="152.0" cy="204" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="88.0" cy="178" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="120.0" cy="178" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="152.0" cy="178" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="88.0" cy="152" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="120.0" cy="152" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="152.0" cy="152" rx="18.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<line x1="60" y1="245" x2="188" y2="245" stroke="#444444" stroke-width="5"/>
+<text x="124.0" y="275" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">0,4 mm (≈ bico)</text>
+<text x="124.0" y="295" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">detalhe fino, padrão</text>
+<ellipse cx="360.0" cy="230" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="416.0" cy="230" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="472.0" cy="230" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="360.0" cy="204" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="416.0" cy="204" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="472.0" cy="204" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="360.0" cy="178" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="416.0" cy="178" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="472.0" cy="178" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="360.0" cy="152" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="416.0" cy="152" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="472.0" cy="152" rx="30.0" ry="13" fill="#F28C28" stroke="#ffffff" stroke-width="1"/>
+<line x1="320" y1="245" x2="520" y2="245" stroke="#444444" stroke-width="5"/>
+<text x="420.0" y="275" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">0,6 mm (150%)</text>
+<text x="420.0" y="295" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">mais rápido e forte, menos detalhe</text>
+<polygon points="90,70 130,70 118,100 102,100" fill="#888888"/>
+<text x="110" y="60" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">bico 0,4</text>
+<polygon points="400,70 440,70 428,100 412,100" fill="#888888"/>
+<text x="420" y="60" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">mesmo bico 0,4</text>
+
+</svg>

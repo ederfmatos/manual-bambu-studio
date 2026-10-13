@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="345" viewBox="0 0 600 345">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Altura da camada: o efeito escada numa curva</text>
+<rect x="40.20434064624878" y="243" width="239.59131870750244" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="40.81946467648335" y="236" width="238.3610706470333" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="41.851787994908705" y="229" width="236.2964240101826" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="43.312382833481436" y="222" width="233.37523433303713" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="45.217597167510036" y="215" width="229.56480566497993" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="47.590036028828834" y="208" width="224.81992794234233" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="50.46005294870733" y="201" width="219.07989410258534" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="53.868006708627206" y="194" width="212.2639865827456" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="57.8677328167048" y="187" width="204.2645343665904" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="62.53205655191036" y="180" width="194.93588689617928" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="67.96196438428295" y="173" width="184.0760712314341" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="74.3028588574858" y="166" width="171.3942822850284" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="81.77596277358218" y="159" width="156.44807445283564" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="90.74684122727686" y="152" width="138.50631754544628" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="101.90524980688875" y="145" width="116.1895003862225" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="116.91868154292398" y="138" width="86.16263691415205" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="144.54037516625974" y="131" width="30.91924966748055" height="7" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="160.0" y="130" width="0.0" height="1" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<path d="M40,250 A120,120 0 0 1 280,250" fill="none" stroke="#555555" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="20" y1="250" x2="300" y2="250" stroke="#444444" stroke-width="5"/>
+<text x="160" y="278" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Camada baixa (0,08–0,12 mm)</text>
+<text x="160" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">degraus quase invisíveis, mais lenta</text>
+<rect x="322.4244923464075" y="226" width="235.15101530718508" height="24" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="330.01818332105984" y="202" width="219.96363335788033" height="24" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="344.0" y="178" width="192.0" height="24" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="368.0" y="154" width="143.99999999999997" height="24" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="440.0" y="130" width="0.0" height="24" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<path d="M320,250 A120,120 0 0 1 560,250" fill="none" stroke="#555555" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="300" y1="250" x2="580" y2="250" stroke="#444444" stroke-width="5"/>
+<text x="440" y="278" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Camada alta (0,28 mm)</text>
+<text x="440" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">degraus visíveis, bem mais rápida</text>
+<text x="300" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">Linha tracejada = forma ideal do modelo</text>
+
+</svg>

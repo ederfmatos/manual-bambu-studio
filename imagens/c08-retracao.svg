@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Retração: o filamento recua no bico (corte)</text>
+  <!-- painel esquerdo -->
+  <text x="150" y="60" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#333333" text-anchor="middle">Imprimindo</text>
+  <rect x="110" y="70" width="80" height="200" fill="#BBBBBB" stroke="#555555" stroke-width="2"/>
+  <polygon points="110,270 190,270 160,320 140,320" fill="#BBBBBB" stroke="#555555" stroke-width="2"/>
+  <rect x="135" y="70" width="30" height="210" fill="#F28C28"/>
+  <polygon points="135,280 165,280 155,318 145,318" fill="#F28C28"/>
+  <rect x="146" y="318" width="8" height="22" fill="#F28C28"/>
+  <rect x="40" y="340" width="220" height="12" fill="#444444"/>
+  <text x="60" y="120" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">pressão</text>
+  <text x="60" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">empurra</text>
+  <line x1="150" y1="90" x2="150" y2="140" stroke="#2A9D4B" stroke-width="3"/>
+  <polygon points="143,140 157,140 150,152" fill="#2A9D4B"/>
+  <!-- painel direito -->
+  <text x="450" y="60" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#333333" text-anchor="middle">Retraído (viagem)</text>
+  <rect x="410" y="70" width="80" height="200" fill="#BBBBBB" stroke="#555555" stroke-width="2"/>
+  <polygon points="410,270 490,270 460,320 440,320" fill="#BBBBBB" stroke="#555555" stroke-width="2"/>
+  <rect x="435" y="70" width="30" height="160" fill="#F28C28"/>
+  <rect x="435" y="230" width="30" height="50" fill="#ffffff" stroke="#F28C28" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <line x1="450" y1="210" x2="450" y2="120" stroke="#D7263D" stroke-width="3"/>
+  <polygon points="443,120 457,120 450,108" fill="#D7263D"/>
+  <rect x="340" y="340" width="220" height="12" fill="#444444"/>
+  <!-- cota comprimento -->
+  <line x1="505" y1="230" x2="505" y2="280" stroke="#D7263D" stroke-width="1.5"/>
+  <line x1="498" y1="230" x2="512" y2="230" stroke="#D7263D" stroke-width="1.5"/>
+  <line x1="498" y1="280" x2="512" y2="280" stroke="#D7263D" stroke-width="1.5"/>
+  <text x="518" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D">comprimento</text>
+  <text x="518" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D">de retração</text>
+  <text x="380" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D" text-anchor="end">velocidade</text>
+  <text x="380" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D" text-anchor="end">de retração</text>
+  <text x="450" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A9D4B" text-anchor="middle">sem gota</text>
+  <line x1="290" y1="200" x2="320" y2="200" stroke="#555555" stroke-width="2"/>
+  <polygon points="320,194 332,200 320,206" fill="#555555"/>
+  <text x="300" y="385" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">Aliviar a pressão antes de viajar evita fios; depois a desretração devolve o material.</text>
+</svg>

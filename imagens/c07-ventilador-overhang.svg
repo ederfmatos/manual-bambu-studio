@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Ventilador e overhang (corte lateral)</text>
+  <text x="150" y="58" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#D7263D" text-anchor="middle">Pouco ventilador</text>
+  <text x="450" y="58" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#2A9D4B" text-anchor="middle">Ventilador forte</text>
+  <line x1="300" y1="45" x2="300" y2="320" stroke="#BBBBBB" stroke-width="1.5"/>
+  <!-- mesa -->
+  <rect x="20" y="290" width="260" height="14" fill="#444444"/>
+  <rect x="320" y="290" width="260" height="14" fill="#444444"/>
+  <!-- painel esquerdo: camadas que caem -->
+  <rect x="60" y="272" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <rect x="68" y="254" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <rect x="76" y="236" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <path d="M 84 218 h 72 q 18 2 16 22 q -8 -6 -16 -6 h -72 z" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <path d="M 92 200 h 72 q 26 6 22 40 q -10 -16 -22 -22 h -72 z" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <path d="M 100 182 h 72 q 34 10 26 58 q -12 -28 -26 -40 h -72 z" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <text x="200" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D">bordas caídas</text>
+  <text x="200" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D">e enroladas</text>
+  <!-- painel direito -->
+  <rect x="360" y="272" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <rect x="368" y="254" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <rect x="376" y="236" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <rect x="384" y="218" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <rect x="392" y="200" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <rect x="400" y="182" width="80" height="16" rx="7" fill="#F28C28" stroke="#555555" stroke-width="1"/>
+  <!-- bico e ar -->
+  <polygon points="470,150 500,150 492,176 478,176" fill="#555555"/>
+  <rect x="465" y="120" width="40" height="30" fill="#BBBBBB" stroke="#555555"/>
+  <path d="M 540 140 Q 515 160 500 180" fill="none" stroke="#2E86AB" stroke-width="2.5"/>
+  <path d="M 555 160 Q 530 175 505 192" fill="none" stroke="#2E86AB" stroke-width="2.5"/>
+  <polygon points="500,180 498,170 507,175" fill="#2E86AB"/>
+  <polygon points="505,192 502,183 511,187" fill="#2E86AB"/>
+  <text x="545" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2E86AB" text-anchor="middle">ar frio</text>
+  <text x="430" y="105" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A9D4B" text-anchor="middle">plástico firma antes de ceder</text>
+  <polygon points="170,150 200,150 192,176 178,176" fill="#555555"/>
+  <rect x="165" y="120" width="40" height="30" fill="#BBBBBB" stroke="#555555"/>
+  <text x="300" y="345" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">Em ABS/ASA/PC, ventilador forte demais causa trincas: use com moderação.</text>
+</svg>

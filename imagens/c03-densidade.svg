@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="294" viewBox="0 0 600 294">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300.0" y="28.0" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Efeito da densidade do preenchimento (padrão Grade)</text>
+<rect x="30" y="50" width="160" height="160" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="34" y="54" width="152" height="152" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="39" y="59" width="142" height="142" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<path d="M166.5 62.0L178.0 73.5 M104.2 62.0L178.0 135.8 M42.0 62.0L178.0 198.0 M42.0 124.2L115.8 198.0 M42.0 186.5L53.5 198.0 M42.0 73.5L53.5 62.0 M42.0 135.8L115.8 62.0 M42.0 198.0L178.0 62.0 M104.2 198.0L178.0 124.2 M166.5 198.0L178.0 186.5" fill="none" stroke="#F28C28" stroke-width="2.0" stroke-linecap="round"/>
+<text x="110.0" y="236.0" font-size="16" text-anchor="middle" fill="#222222" font-weight="bold">10%</text>
+<rect x="220" y="50" width="160" height="160" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="224" y="54" width="152" height="152" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="229" y="59" width="142" height="142" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<path d="M356.5 62.0L368.0 73.5 M325.3 62.0L368.0 104.7 M294.2 62.0L368.0 135.8 M263.1 62.0L368.0 166.9 M232.0 62.0L368.0 198.0 M232.0 93.1L336.9 198.0 M232.0 124.2L305.8 198.0 M232.0 155.3L274.7 198.0 M232.0 186.5L243.5 198.0 M232.0 73.5L243.5 62.0 M232.0 104.7L274.7 62.0 M232.0 135.8L305.8 62.0 M232.0 166.9L336.9 62.0 M232.0 198.0L368.0 62.0 M263.1 198.0L368.0 93.1 M294.2 198.0L368.0 124.2 M325.3 198.0L368.0 155.3 M356.5 198.0L368.0 186.5" fill="none" stroke="#F28C28" stroke-width="2.0" stroke-linecap="round"/>
+<text x="300.0" y="236.0" font-size="16" text-anchor="middle" fill="#222222" font-weight="bold">20%</text>
+<rect x="410" y="50" width="160" height="160" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="414" y="54" width="152" height="152" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="419" y="59" width="142" height="142" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<path d="M546.5 62.0L558.0 73.5 M530.9 62.0L558.0 89.1 M515.3 62.0L558.0 104.7 M499.8 62.0L558.0 120.2 M484.2 62.0L558.0 135.8 M468.7 62.0L558.0 151.3 M453.1 62.0L558.0 166.9 M437.6 62.0L558.0 182.4 M422.0 62.0L558.0 198.0 M422.0 77.6L542.4 198.0 M422.0 93.1L526.9 198.0 M422.0 108.7L511.3 198.0 M422.0 124.2L495.8 198.0 M422.0 139.8L480.2 198.0 M422.0 155.3L464.7 198.0 M422.0 170.9L449.1 198.0 M422.0 186.5L433.5 198.0 M422.0 73.5L433.5 62.0 M422.0 89.1L449.1 62.0 M422.0 104.7L464.7 62.0 M422.0 120.2L480.2 62.0 M422.0 135.8L495.8 62.0 M422.0 151.3L511.3 62.0 M422.0 166.9L526.9 62.0 M422.0 182.4L542.4 62.0 M422.0 198.0L558.0 62.0 M437.6 198.0L558.0 77.6 M453.1 198.0L558.0 93.1 M468.7 198.0L558.0 108.7 M484.2 198.0L558.0 124.2 M499.8 198.0L558.0 139.8 M515.3 198.0L558.0 155.3 M530.9 198.0L558.0 170.9 M546.5 198.0L558.0 186.5" fill="none" stroke="#F28C28" stroke-width="2.0" stroke-linecap="round"/>
+<text x="490.0" y="236.0" font-size="16" text-anchor="middle" fill="#222222" font-weight="bold">40%</text>
+<text x="300.0" y="266.0" font-size="13" text-anchor="middle" fill="#444444">Dobrar a densidade corta pela metade a distância entre as linhas</text>
+<text x="300.0" y="285.0" font-size="13" text-anchor="middle" fill="#444444">e dobra o plástico gasto no miolo (o tempo cresce quase junto).</text>
+</g>
+</svg>

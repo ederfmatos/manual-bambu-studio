@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="390" viewBox="0 0 600 390">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300" y="26" font-size="17" text-anchor="middle" fill="#222" font-weight="bold">Aceleração alta × baixa na parede externa</text>
+<text x="155" y="56" font-size="15" text-anchor="middle" fill="#2A9D4B" font-weight="bold">Aceleração baixa</text>
+<rect x="30" y="70" width="250" height="160" fill="#F28C28" opacity="0.25" stroke="#555555"/>
+<rect x="60" y="110" width="40" height="80" fill="#ffffff" stroke="#555555"/>
+<text x="195" y="215" font-size="13" text-anchor="middle" fill="#2A9D4B">superfície limpa</text>
+<line x1="30" y1="320" x2="280" y2="320" stroke="#555"/>
+<polyline points="30,320 110,275 200,275 280,320" fill="none" stroke="#2A9D4B" stroke-width="3"/>
+<text x="155" y="342" font-size="13" text-anchor="middle" fill="#555">velocidade ao longo do trecho</text>
+<text x="445" y="56" font-size="15" text-anchor="middle" fill="#D7263D" font-weight="bold">Aceleração alta</text>
+<rect x="320" y="70" width="250" height="160" fill="#F28C28" opacity="0.25" stroke="#555555"/>
+<rect x="350" y="110" width="40" height="80" fill="#ffffff" stroke="#555555"/>
+<line x1="402" y1="110" x2="402" y2="190" stroke="#D7263D" stroke-width="3.0" opacity="0.9"/>
+<line x1="416" y1="110" x2="416" y2="190" stroke="#D7263D" stroke-width="2.4" opacity="0.7"/>
+<line x1="430" y1="110" x2="430" y2="190" stroke="#D7263D" stroke-width="1.8" opacity="0.5"/>
+<line x1="444" y1="110" x2="444" y2="190" stroke="#D7263D" stroke-width="1.2" opacity="0.3"/>
+<text x="485" y="215" font-size="13" text-anchor="middle" fill="#D7263D">ondas após o canto</text>
+<line x1="320" y1="320" x2="570" y2="320" stroke="#555"/>
+<polyline points="320,320 340,260 550,260 570,320" fill="none" stroke="#D7263D" stroke-width="3"/>
+<text x="445" y="342" font-size="13" text-anchor="middle" fill="#555">velocidade ao longo do trecho</text>
+<text x="300" y="370" font-size="13" text-anchor="middle" fill="#333">Acelerar e frear bruscamente faz o cabeçote vibrar: a vibração vira “eco” na parede.</text>
+</g>
+</svg>

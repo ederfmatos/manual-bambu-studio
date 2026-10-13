@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Ventilador conforme o tempo da camada</text>
+  <line x1="90" y1="300" x2="570" y2="300" stroke="#555555" stroke-width="2"/>
+  <line x1="90" y1="300" x2="90" y2="50" stroke="#555555" stroke-width="2"/>
+  <polygon points="570,295 580,300 570,305" fill="#555555"/>
+  <polygon points="85,50 90,40 95,50" fill="#555555"/>
+  <text x="330" y="335" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333" text-anchor="middle">Tempo estimado da camada (s)</text>
+  <text x="35" y="175" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333" text-anchor="middle" transform="rotate(-90 35 175)">Ventilador (%)</text>
+  <!-- marcas -->
+  <text x="80" y="85" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="end">máx</text>
+  <text x="80" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="end">mín</text>
+  <line x1="90" y1="80" x2="570" y2="80" stroke="#BBBBBB" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="90" y1="230" x2="570" y2="230" stroke="#BBBBBB" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="180" y1="300" x2="180" y2="80" stroke="#BBBBBB" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="440" y1="300" x2="440" y2="230" stroke="#BBBBBB" stroke-width="1" stroke-dasharray="4,4"/>
+  <text x="180" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D" text-anchor="middle">limiar máx.</text>
+  <text x="440" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2E86AB" text-anchor="middle">limiar mín.</text>
+  <!-- curva -->
+  <polyline points="90,80 180,80 440,230 570,230" fill="none" stroke="#F28C28" stroke-width="4"/>
+  <polyline points="440,230 570,300" fill="none" stroke="#F28C28" stroke-width="2" stroke-dasharray="6,5"/>
+  <text x="135" y="70" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">camada rápida</text>
+  <text x="310" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333">interpolação</text>
+  <text x="505" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">camada lenta</text>
+  <text x="455" y="275" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555" text-anchor="end">tracejado: sem "manter</text>
+  <text x="455" y="290" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555" text-anchor="end">sempre ligado" o fan para</text>
+  <text x="300" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">Abaixo do limiar máx. o fatiador também pode reduzir a velocidade.</text>
+</svg>

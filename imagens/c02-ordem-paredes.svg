@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Ordem das paredes (corte; número = ordem de impressão)</text>
+<rect x="40" y="80" width="34" height="120" fill="#F28C28" stroke="none" stroke-width="1" rx="8"/>
+<text x="57" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<rect x="78" y="80" width="34" height="120" fill="#F5C16C" stroke="none" stroke-width="1" rx="8"/>
+<text x="95" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<rect x="116" y="80" width="34" height="120" fill="#F5C16C" stroke="none" stroke-width="1" rx="8"/>
+<text x="133" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<rect x="156" y="80" width="30" height="120" fill="#eeeeee" stroke="#BBBBBB" stroke-width="1" rx="0"/>
+<text x="171" y="215" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">infill</text>
+<text x="57" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#555555" font-weight="normal">ext.</text>
+<text x="113" y="235" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Interna/Externa</text>
+<text x="113" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">melhor p/ overhang</text>
+<rect x="230" y="80" width="34" height="120" fill="#F28C28" stroke="none" stroke-width="1" rx="8"/>
+<text x="247" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<rect x="268" y="80" width="34" height="120" fill="#F5C16C" stroke="none" stroke-width="1" rx="8"/>
+<text x="285" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<rect x="306" y="80" width="34" height="120" fill="#F5C16C" stroke="none" stroke-width="1" rx="8"/>
+<text x="323" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<rect x="346" y="80" width="30" height="120" fill="#eeeeee" stroke="#BBBBBB" stroke-width="1" rx="0"/>
+<text x="361" y="215" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">infill</text>
+<text x="247" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#555555" font-weight="normal">ext.</text>
+<text x="303" y="235" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Externa/Interna</text>
+<text x="303" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">superfície mais precisa</text>
+<rect x="420" y="80" width="34" height="120" fill="#F28C28" stroke="none" stroke-width="1" rx="8"/>
+<text x="437" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<rect x="458" y="80" width="34" height="120" fill="#F5C16C" stroke="none" stroke-width="1" rx="8"/>
+<text x="475" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<rect x="496" y="80" width="34" height="120" fill="#F5C16C" stroke="none" stroke-width="1" rx="8"/>
+<text x="513" y="147" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<rect x="536" y="80" width="30" height="120" fill="#eeeeee" stroke="#BBBBBB" stroke-width="1" rx="0"/>
+<text x="551" y="215" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" fill="#555555" font-weight="normal">infill</text>
+<text x="437" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#555555" font-weight="normal">ext.</text>
+<text x="493" y="235" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Int./Ext./Int.</text>
+<text x="493" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">acabamento + precisão</text>
+<line x1="30" y1="205" x2="580" y2="205" stroke="#444444" stroke-width="3"/>
+<text x="300" y="285" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">Lado de fora do objeto à esquerda de cada desenho.</text>
+
+</svg>

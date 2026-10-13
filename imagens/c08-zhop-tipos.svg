@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Tipos de Z hop (trajeto do bico)</text>
+  <!-- Normal -->
+  <text x="100" y="62" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#333333" text-anchor="middle">Normal</text>
+  <rect x="20" y="250" width="160" height="40" fill="#F28C28" fill-opacity="0.35" stroke="#F28C28"/>
+  <polyline points="35,245 35,150 165,150 165,245" fill="none" stroke="#2E86AB" stroke-width="3"/>
+  <polygon points="30,160 40,160 35,148" fill="#2E86AB"/>
+  <polygon points="160,235 170,235 165,247" fill="#2E86AB"/>
+  <text x="100" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">sobe reto, viaja, desce</text>
+  <!-- Inclinado -->
+  <text x="300" y="62" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#333333" text-anchor="middle">Inclinado</text>
+  <rect x="220" y="250" width="160" height="40" fill="#F28C28" fill-opacity="0.35" stroke="#F28C28"/>
+  <polyline points="235,245 275,150 330,150 365,245" fill="none" stroke="#2E86AB" stroke-width="3"/>
+  <polygon points="365,247 357,236 369,233" fill="#2E86AB"/>
+  <text x="300" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">sobe andando</text>
+  <!-- Espiral -->
+  <text x="500" y="62" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#333333" text-anchor="middle">Espiral</text>
+  <rect x="420" y="250" width="160" height="40" fill="#F28C28" fill-opacity="0.35" stroke="#F28C28"/>
+  <path d="M 435 245 C 470 240, 470 225, 435 220 C 405 215, 410 198, 445 195 C 470 192, 465 172, 435 168 L 435 150 L 565 150 L 565 245" fill="none" stroke="#2E86AB" stroke-width="3"/>
+  <polygon points="560,235 570,235 565,247" fill="#2E86AB"/>
+  <text x="510" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">sobe girando no lugar</text>
+  <!-- cota altura -->
+  <line x1="10" y1="150" x2="10" y2="245" stroke="#D7263D" stroke-width="1.5"/>
+  <line x1="5" y1="150" x2="15" y2="150" stroke="#D7263D" stroke-width="1.5"/>
+  <line x1="5" y1="245" x2="15" y2="245" stroke="#D7263D" stroke-width="1.5"/>
+  <text x="100" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D" text-anchor="middle">altura do Z hop</text>
+  <text x="100" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">peça</text>
+  <text x="300" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">peça</text>
+  <text x="500" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">peça</text>
+  <!-- notas -->
+  <text x="100" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">simples, pode</text>
+  <text x="100" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">deixar marca</text>
+  <text x="300" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">sem parada</text>
+  <text x="300" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">vertical</text>
+  <text x="500" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">menos fios e</text>
+  <text x="500" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">marcas de parada</text>
+  <text x="300" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">Auto: o Bambu Studio usa espiral sobre overhangs e inclinado no resto.</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Limpeza (wipe) ao retrair (vista de cima)</text>
+  <!-- parede -->
+  <path d="M 60 230 L 60 90 L 380 90 L 380 230 Z" fill="none" stroke="#F28C28" stroke-width="14" stroke-linejoin="round"/>
+  <!-- ponto final -->
+  <circle cx="60" cy="210" r="8" fill="#555555"/>
+  <text x="80" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333">fim da parede</text>
+  <!-- wipe ao longo do caminho -->
+  <path d="M 60 210 L 60 228 Q 60 230 64 230 L 150 230" fill="none" stroke="#2E86AB" stroke-width="4" stroke-dasharray="8,5"/>
+  <polygon points="150,224 162,230 150,236" fill="#2E86AB"/>
+  <text x="105" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2E86AB" text-anchor="middle">wipe: volta sobre a linha já</text>
+  <text x="105" y="279" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2E86AB" text-anchor="middle">feita enquanto retrai</text>
+  <!-- cota distancia -->
+  <line x1="60" y1="300" x2="160" y2="300" stroke="#D7263D" stroke-width="1.5"/>
+  <line x1="60" y1="294" x2="60" y2="306" stroke="#D7263D" stroke-width="1.5"/>
+  <line x1="160" y1="294" x2="160" y2="306" stroke="#D7263D" stroke-width="1.5"/>
+  <text x="110" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#D7263D" text-anchor="middle">distância de limpeza</text>
+  <!-- viagem -->
+  <path d="M 162 230 Q 300 300 470 260" fill="none" stroke="#555555" stroke-width="2" stroke-dasharray="3,5"/>
+  <polygon points="468,254 480,258 470,266" fill="#555555"/>
+  <text x="330" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">viagem</text>
+  <!-- próxima peça -->
+  <rect x="480" y="210" width="90" height="90" fill="#F28C28" fill-opacity="0.35" stroke="#F28C28" stroke-width="2"/>
+  <text x="525" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A9D4B" text-anchor="middle">começa sem gota</text>
+  <text x="470" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">A sobra no bico</text>
+  <text x="470" y="147" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">fica na própria peça,</text>
+  <text x="470" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">escondida na costura</text>
+</svg>

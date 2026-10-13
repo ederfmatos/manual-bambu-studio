@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Posição da costura vista de cima (cada ponto = 1 camada)</text>
+<circle cx="80" cy="140" r="55" fill="#fde8d2" stroke="#F28C28" stroke-width="4"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="28.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<text x="80" y="225" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Alinhado</text>
+<text x="80" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">(Aligned)</text>
+<circle cx="227" cy="140" r="55" fill="#fde8d2" stroke="#F28C28" stroke-width="4"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="227.0" cy="85.0" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<text x="227" y="225" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Atrás</text>
+<text x="227" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">(Back)</text>
+<circle cx="374" cy="140" r="55" fill="#fde8d2" stroke="#F28C28" stroke-width="4"/>
+<circle cx="322.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="324.2" cy="116.8" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="421.6" cy="167.5" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="419.1" cy="171.5" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="416.1" cy="104.6" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="322.3" cy="121.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="346.5" cy="187.6" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="342.5" cy="185.1" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<text x="374" y="225" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Mais próximo</text>
+<text x="374" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">(Nearest)</text>
+<circle cx="521" cy="140" r="55" fill="#fde8d2" stroke="#F28C28" stroke-width="4"/>
+<circle cx="525.8" cy="194.8" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="564.8" cy="173.2" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="477.3" cy="173.4" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="551.9" cy="185.5" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="571.3" cy="162.3" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="476.2" cy="171.9" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="568.9" cy="112.9" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<circle cx="538.1" cy="87.7" r="5" fill="#D7263D" fill-opacity="0.8"/>
+<text x="521" y="225" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#222222" font-weight="bold">Aleatório</text>
+<text x="521" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">(Random)</text>
+<text x="227" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#555555" font-weight="normal">traseira (Y máx.)</text>
+<text x="300" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">Frente da impressora = parte de baixo do desenho</text>
+
+</svg>

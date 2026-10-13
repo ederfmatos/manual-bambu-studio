@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Bicos 0.2 / 0.4 / 0.6 / 0.8 (escala aproximada)</text>
+  <!-- bicos: escala 1 mm = 100 px -->
+  <g fill="#BBBBBB" stroke="#555555" stroke-width="2">
+    <polygon points="45,60 115,60 90,140 70,140"/>
+    <polygon points="185,60 255,60 240,140 200,140"/>
+    <polygon points="325,60 395,60 390,140 330,140"/>
+    <polygon points="465,60 535,60 540,140 460,140"/>
+  </g>
+  <!-- orificios -->
+  <rect x="70" y="140" width="20" height="6" fill="#F28C28"/>
+  <rect x="200" y="140" width="40" height="6" fill="#F28C28"/>
+  <rect x="330" y="140" width="60" height="6" fill="#F28C28"/>
+  <rect x="460" y="140" width="80" height="6" fill="#F28C28"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#222222" text-anchor="middle">
+    <text x="80" y="170">0.2 mm</text><text x="220" y="170">0.4 mm</text><text x="360" y="170">0.6 mm</text><text x="500" y="170">0.8 mm</text>
+  </g>
+  <!-- seções de linhas (largura ~ 1.05x bico, altura ~50%) -->
+  <text x="300" y="196" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#555555" text-anchor="middle">Corte de camadas típicas (largura x altura)</text>
+  <g fill="#F28C28" stroke="#555555" stroke-width="1">
+    <rect x="69" y="270" width="22" height="10" rx="4"/><rect x="69" y="259" width="22" height="10" rx="4"/><rect x="69" y="248" width="22" height="10" rx="4"/>
+    <rect x="199" y="260" width="42" height="20" rx="8"/><rect x="199" y="239" width="42" height="20" rx="8"/><rect x="199" y="218" width="42" height="20" rx="8"/>
+    <rect x="328" y="256" width="64" height="24" rx="10"/><rect x="328" y="231" width="64" height="24" rx="10"/><rect x="328" y="206" width="64" height="24" rx="10"/>
+    <rect x="456" y="248" width="88" height="32" rx="13"/><rect x="456" y="215" width="88" height="32" rx="13"/>
+  </g>
+  <rect x="20" y="282" width="560" height="8" fill="#444444"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">
+    <text x="80" y="312">linha 0.22</text><text x="80" y="329">camada 0.04–0.14</text>
+    <text x="220" y="312">linha 0.42</text><text x="220" y="329">camada 0.08–0.28</text>
+    <text x="360" y="312">linha 0.62</text><text x="360" y="329">camada 0.12–0.42</text>
+    <text x="500" y="312">linha 0.82</text><text x="500" y="329">camada 0.16–0.56</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">
+    <text x="80" y="360" fill="#2E86AB">miniaturas,</text><text x="80" y="377" fill="#2E86AB">detalhe fino</text>
+    <text x="220" y="360" fill="#2A9D4B">uso geral</text><text x="220" y="377" fill="#2A9D4B">(padrão)</text>
+    <text x="360" y="360" fill="#F28C28">peças fortes,</text><text x="360" y="377" fill="#F28C28">fibra de carbono</text>
+    <text x="500" y="360" fill="#D7263D">peças grandes,</text><text x="500" y="377" fill="#D7263D">rapidez</text>
+  </g>
+  <text x="300" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">Faixas de camada conforme os limites dos perfis oficiais da X1 Carbon.</text>
+</svg>

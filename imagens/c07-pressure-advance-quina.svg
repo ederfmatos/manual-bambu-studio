@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Pressure advance numa quina (vista de cima)</text>
+  <!-- painel 1 -->
+  <text x="100" y="62" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#D7263D" text-anchor="middle">K baixo demais</text>
+  <path d="M 30 270 L 150 270 L 150 120" fill="none" stroke="#F28C28" stroke-width="12" stroke-linejoin="miter"/>
+  <circle cx="150" cy="270" r="14" fill="#F28C28"/>
+  <path d="M 150 155 L 150 120" fill="none" stroke="#F28C28" stroke-width="7"/>
+  <text x="100" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">bolha na quina,</text>
+  <text x="100" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">linha fina ao acelerar</text>
+  <!-- painel 2 -->
+  <text x="300" y="62" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#2A9D4B" text-anchor="middle">K correto</text>
+  <path d="M 230 270 L 350 270 L 350 120" fill="none" stroke="#F28C28" stroke-width="12" stroke-linejoin="miter"/>
+  <text x="300" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">largura constante,</text>
+  <text x="300" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">quina viva</text>
+  <!-- painel 3 -->
+  <text x="500" y="62" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#D7263D" text-anchor="middle">K alto demais</text>
+  <path d="M 430 270 L 505 270" fill="none" stroke="#F28C28" stroke-width="12"/>
+  <polygon points="505,264 540,268 540,272 505,276" fill="#F28C28"/>
+  <path d="M 550 270 L 550 245" fill="none" stroke="#F28C28" stroke-width="3"/>
+  <polygon points="547,245 553,245 556,205 544,205" fill="#F28C28"/>
+  <path d="M 550 205 L 550 120" fill="none" stroke="#F28C28" stroke-width="12"/>
+  <text x="500" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">falha/afinamento</text>
+  <text x="500" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">perto da quina</text>
+  <!-- seta direcao -->
+  <line x1="40" y1="100" x2="100" y2="100" stroke="#555555" stroke-width="2"/>
+  <polygon points="100,95 110,100 100,105" fill="#555555"/>
+  <text x="40" y="90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555">sentido</text>
+  <text x="300" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">O K adianta ou atrasa a pressão no bico para acompanhar a aceleração.</text>
+</svg>

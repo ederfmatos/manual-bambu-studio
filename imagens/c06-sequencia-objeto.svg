@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="410" viewBox="0 0 600 410">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Impressão por objeto: a folga do cabeçote</text>
+<rect x="30" y="360" width="540" height="12" fill="#444444"/>
+<rect x="90" y="180" width="110" height="180" fill="#2A9D4B"/>
+<text x="145" y="280" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff" font-weight="bold">pronto</text>
+<rect x="340" y="300" width="110" height="60" fill="#F28C28"/>
+<text x="395" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">imprimindo</text>
+<rect x="345" y="200" width="100" height="80" rx="8" fill="#555555"/>
+<polygon points="385,280 405,280 395,298" fill="#555555"/>
+<text x="395" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="normal">cabeçote</text>
+<line x1="395" y1="190" x2="275" y2="190" stroke="#D7263D" stroke-width="2"/>
+<line x1="275" y1="182" x2="275" y2="198" stroke="#D7263D" stroke-width="2"/>
+<text x="335" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#D7263D" font-weight="normal">raio de folga</text>
+<rect x="275" y="150" width="240" height="150" fill="none" stroke="#D7263D" stroke-width="1.5" stroke-dasharray="6,4"/>
+<rect x="30" y="110" width="540" height="12" fill="#BBBBBB"/>
+<text x="300" y="102" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">eixo / barra do pórtico (X)</text>
+<line x1="535" y1="298" x2="535" y2="122" stroke="#2E86AB" stroke-width="2"/>
+<line x1="528" y1="298" x2="542" y2="298" stroke="#2E86AB" stroke-width="2"/><line x1="528" y1="122" x2="542" y2="122" stroke="#2E86AB" stroke-width="2"/>
+<text x="547" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#2E86AB" font-weight="normal">altura</text>
+<text x="547" y="217" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#2E86AB" font-weight="normal">até a</text>
+<text x="547" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#2E86AB" font-weight="normal">barra</text>
+<text x="300" y="395" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="normal">Objetos devem ficar fora do retângulo tracejado e abaixo da barra</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="470" viewBox="0 0 600 470">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="300" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Placas x materiais (guia rápido)</text>
+  <!-- cabeçalho colunas -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">
+    <text x="205" y="62">Cool</text><text x="205" y="78">Plate</text>
+    <text x="285" y="62">Engi-</text><text x="285" y="78">neering</text>
+    <text x="365" y="62">PEI lisa/</text><text x="365" y="78">High Temp</text>
+    <text x="445" y="62">PEI</text><text x="445" y="78">texturiz.</text>
+    <text x="530" y="62">Cola</text><text x="530" y="78">em bastão</text>
+  </g>
+  <line x1="20" y1="88" x2="580" y2="88" stroke="#555555" stroke-width="1.5"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222">
+    <text x="30" y="117">PLA / PLA Silk</text>
+    <text x="30" y="155">PLA-CF</text>
+    <text x="30" y="193">PETG</text>
+    <text x="30" y="231">ABS / ASA</text>
+    <text x="30" y="269">TPU</text>
+    <text x="30" y="307">PA / PA-CF</text>
+    <text x="30" y="345">PC</text>
+    <text x="30" y="383">PVA / Suporte PLA</text>
+  </g>
+  <g stroke="#DDDDDD" stroke-width="1">
+    <line x1="20" y1="132" x2="580" y2="132"/><line x1="20" y1="170" x2="580" y2="170"/>
+    <line x1="20" y1="208" x2="580" y2="208"/><line x1="20" y1="246" x2="580" y2="246"/>
+    <line x1="20" y1="284" x2="580" y2="284"/><line x1="20" y1="322" x2="580" y2="322"/>
+    <line x1="20" y1="360" x2="580" y2="360"/><line x1="20" y1="398" x2="580" y2="398"/>
+  </g>
+  <!-- linhas: verde=bom, amarelo=ressalva, vermelho=evitar -->
+  <!-- PLA -->
+  <circle cx="205" cy="112" r="11" fill="#2A9D4B"/><circle cx="285" cy="112" r="11" fill="#D7263D"/><circle cx="365" cy="112" r="11" fill="#2A9D4B"/><circle cx="445" cy="112" r="11" fill="#2A9D4B"/>
+  <text x="530" y="117" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">na Cool</text>
+  <!-- PLA-CF -->
+  <circle cx="205" cy="150" r="11" fill="#2A9D4B"/><circle cx="285" cy="150" r="11" fill="#D7263D"/><circle cx="365" cy="150" r="11" fill="#2A9D4B"/><circle cx="445" cy="150" r="11" fill="#2A9D4B"/>
+  <text x="530" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">na Cool</text>
+  <!-- PETG -->
+  <circle cx="205" cy="188" r="11" fill="#D7263D"/><circle cx="285" cy="188" r="11" fill="#2A9D4B"/><circle cx="365" cy="188" r="11" fill="#F28C28"/><circle cx="445" cy="188" r="11" fill="#2A9D4B"/>
+  <text x="530" y="193" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">PEI lisa*</text>
+  <!-- ABS -->
+  <circle cx="205" cy="226" r="11" fill="#D7263D"/><circle cx="285" cy="226" r="11" fill="#2A9D4B"/><circle cx="365" cy="226" r="11" fill="#2A9D4B"/><circle cx="445" cy="226" r="11" fill="#2A9D4B"/>
+  <text x="530" y="231" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">Eng.</text>
+  <!-- TPU -->
+  <circle cx="205" cy="264" r="11" fill="#F28C28"/><circle cx="285" cy="264" r="11" fill="#2A9D4B"/><circle cx="365" cy="264" r="11" fill="#2A9D4B"/><circle cx="445" cy="264" r="11" fill="#2A9D4B"/>
+  <text x="530" y="269" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">desmoldante</text>
+  <!-- PA -->
+  <circle cx="205" cy="302" r="11" fill="#D7263D"/><circle cx="285" cy="302" r="11" fill="#2A9D4B"/><circle cx="365" cy="302" r="11" fill="#2A9D4B"/><circle cx="445" cy="302" r="11" fill="#2A9D4B"/>
+  <text x="530" y="307" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">sempre</text>
+  <!-- PC -->
+  <circle cx="205" cy="340" r="11" fill="#D7263D"/><circle cx="285" cy="340" r="11" fill="#2A9D4B"/><circle cx="365" cy="340" r="11" fill="#2A9D4B"/><circle cx="445" cy="340" r="11" fill="#2A9D4B"/>
+  <text x="530" y="345" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">sempre</text>
+  <!-- PVA -->
+  <circle cx="205" cy="378" r="11" fill="#2A9D4B"/><circle cx="285" cy="378" r="11" fill="#D7263D"/><circle cx="365" cy="378" r="11" fill="#2A9D4B"/><circle cx="445" cy="378" r="11" fill="#2A9D4B"/>
+  <text x="530" y="383" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333" text-anchor="middle">opcional</text>
+  <!-- legenda -->
+  <circle cx="40" cy="425" r="9" fill="#2A9D4B"/><text x="56" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333">recomendada</text>
+  <circle cx="170" cy="425" r="9" fill="#F28C28"/><text x="186" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333">funciona com ressalvas</text>
+  <circle cx="360" cy="425" r="9" fill="#D7263D"/><text x="376" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#333333">evitar (perfil usa 0 °C)</text>
+  <text x="300" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555" text-anchor="middle">* PETG gruda demais na PEI lisa: use cola como camada de separação.</text>
+</svg>

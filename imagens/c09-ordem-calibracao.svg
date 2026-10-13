@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="490" viewBox="0 0 600 490">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#333333">Ordem recomendada de calibração</text>
+<rect x="140" y="50" width="320" height="40" rx="8" fill="#2E86AB"/>
+<text x="300" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">1. Calibração automática da impressora</text>
+<line x1="300" y1="90" x2="300" y2="104" stroke="#555555" stroke-width="2"/><polygon points="294,100 306,100 300,108" fill="#555555"/>
+<rect x="140" y="108" width="320" height="40" rx="8" fill="#F28C28"/>
+<text x="300" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">2. Temperatura (torre)</text>
+<line x1="300" y1="148" x2="300" y2="162" stroke="#555555" stroke-width="2"/><polygon points="294,158 306,158 300,166" fill="#555555"/>
+<rect x="140" y="166" width="320" height="40" rx="8" fill="#F28C28"/>
+<text x="300" y="192" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">3. Velocidade volumétrica máxima</text>
+<line x1="300" y1="206" x2="300" y2="220" stroke="#555555" stroke-width="2"/><polygon points="294,216 306,216 300,224" fill="#555555"/>
+<rect x="140" y="224" width="320" height="40" rx="8" fill="#F28C28"/>
+<text x="300" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">4. Flow Dynamics (K / PA)</text>
+<line x1="300" y1="264" x2="300" y2="278" stroke="#555555" stroke-width="2"/><polygon points="294,274 306,274 300,282" fill="#555555"/>
+<rect x="140" y="282" width="320" height="40" rx="8" fill="#F28C28"/>
+<text x="300" y="308" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">5. Taxa de fluxo (grosso e fino)</text>
+<line x1="300" y1="322" x2="300" y2="336" stroke="#555555" stroke-width="2"/><polygon points="294,332 306,332 300,340" fill="#555555"/>
+<rect x="140" y="340" width="320" height="40" rx="8" fill="#F28C28"/>
+<text x="300" y="366" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">6. Retração</text>
+<line x1="300" y1="380" x2="300" y2="394" stroke="#555555" stroke-width="2"/><polygon points="294,390 306,390 300,398" fill="#555555"/>
+<rect x="140" y="398" width="320" height="40" rx="8" fill="#BBBBBB"/>
+<text x="300" y="424" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333" font-weight="bold">7. VFA (opcional)</text>
+<text x="300" y="470" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555">Refaça o K depois de mudar temperatura ou fluxo.</text>
+</svg>

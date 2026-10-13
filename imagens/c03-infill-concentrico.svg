@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300.0" y="28.0" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Concêntrico (Concentric) — vista de cima</text>
+<rect x="170" y="48" width="260" height="260" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="174" y="52" width="252" height="252" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="179" y="57" width="242" height="242" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<path d="M186.0 64.0L414.0 64.0L414.0 292.0L186.0 292.0L186.0 80.0 M202.0 80.0L398.0 80.0L398.0 276.0L202.0 276.0L202.0 96.0 M218.0 96.0L382.0 96.0L382.0 260.0L218.0 260.0L218.0 112.0 M234.0 112.0L366.0 112.0L366.0 244.0L234.0 244.0L234.0 128.0 M250.0 128.0L350.0 128.0L350.0 228.0L250.0 228.0L250.0 144.0 M266.0 144.0L334.0 144.0L334.0 212.0L266.0 212.0L266.0 160.0 M282.0 160.0L318.0 160.0L318.0 196.0L282.0 196.0L282.0 176.0 M298.0 176.0L302.0 176.0L302.0 180.0L298.0 180.0L298.0 192.0" fill="none" stroke="#F28C28" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="300.0" y="336.0" font-size="13" text-anchor="middle" fill="#444444">Voltas que copiam o contorno da peça, de fora para dentro.</text>
+<text x="300.0" y="355.0" font-size="13" text-anchor="middle" fill="#444444">Igual em todas as camadas; nenhuma linha cruza outra.</text>
+</g>
+</svg>

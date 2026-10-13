@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Tela da aba Preparar (esquema)</text>
+<rect x="20" y="40" width="560" height="34" fill="#eeeeee" stroke="#BBBBBB" stroke-width="1" rx="0"/>
+<text x="300" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Abas + botões Fatiar / Imprimir</text>
+<rect x="20" y="82" width="180" height="300" fill="#f6f6f6" stroke="#BBBBBB" stroke-width="1" rx="0"/>
+<text x="110" y="110" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Impressora</text>
+<text x="110" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Placa (tipo de mesa)</text>
+<text x="110" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Filamentos do projeto</text>
+<text x="110" y="225" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Processo</text>
+<text x="110" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Global | Objetos</text>
+<text x="110" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Abas: Qualidade,</text>
+<text x="110" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Resistência, Velocidade,</text>
+<text x="110" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Suporte, Outros...</text>
+<text x="110" y="365" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#555555" font-weight="bold">BARRA LATERAL</text>
+<rect x="210" y="82" width="370" height="40" fill="#fff4e8" stroke="#F28C28" stroke-width="1.5" rx="0"/>
+<text x="395" y="107" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Barra de ferramentas (ícones)</text>
+<rect x="210" y="130" width="370" height="252" fill="#fbfbfb" stroke="#BBBBBB" stroke-width="1" rx="0"/>
+<polygon points="260,330 530,330 500,250 290,250" fill="#dddddd" stroke="#444444" stroke-width="2"/>
+<rect x="370" y="230" width="60" height="60" fill="#F28C28" stroke="#555555" stroke-width="1" rx="0"/>
+<text x="395" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">Mesa / placa atual com o modelo</text>
+<text x="240" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#555555" font-weight="normal">Lista de objetos</text>
+<text x="240" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#555555" font-weight="normal">fica na barra lateral</text>
+<rect x="540" y="140" width="30" height="110" fill="#e6eef3" stroke="#2E86AB" stroke-width="1" rx="0"/>
+<text x="555" y="270" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#2E86AB" font-weight="normal">placas</text>
+
+</svg>

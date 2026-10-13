@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="292" viewBox="0 0 600 292">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300.0" y="28.0" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Por que as paredes valem mais: uma barra sob flexão</text>
+<rect x="80" y="90" width="440" height="100" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="80" y="90" width="440" height="18" fill="#D7263D" opacity="0.75"/>
+<rect x="80" y="172" width="440" height="18" fill="#D7263D" opacity="0.75"/>
+<rect x="80" y="108" width="440" height="14" fill="#F28C28" opacity="0.6"/>
+<rect x="80" y="158" width="440" height="14" fill="#F28C28" opacity="0.6"/>
+<line x1="80" y1="140.0" x2="520" y2="140.0" stroke="#555555" stroke-dasharray="6 4"/>
+<polygon points="100,190 85,212 115,212" fill="#555555"/>
+<polygon points="500,190 485,212 515,212" fill="#555555"/>
+<line x1="300" y1="45" x2="300" y2="86" stroke="#222" stroke-width="3"/>
+<polygon points="292,76 308,76 300,88" fill="#222"/>
+<text x="312.0" y="60.0" font-size="13" text-anchor="start" fill="#222222">carga</text>
+<text x="300.0" y="103.0" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">face de cima: muito comprimida</text>
+<text x="300.0" y="185.0" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">face de baixo: muito tracionada</text>
+<text x="300.0" y="134.0" font-size="13" text-anchor="middle" fill="#444444">linha neutra: quase sem esforço</text>
+<text x="300.0" y="244.0" font-size="13" text-anchor="middle" fill="#444444">O esforço é maior nas bordas da seção e quase zero no meio.</text>
+<text x="300.0" y="263.0" font-size="13" text-anchor="middle" fill="#444444">Paredes e cascas ficam justamente nas bordas; o preenchimento fica</text>
+<text x="300.0" y="282.0" font-size="13" text-anchor="middle" fill="#444444">perto do meio. Por isso cada grama em parede rende mais rigidez.</text>
+</g>
+</svg>

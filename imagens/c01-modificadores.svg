@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Tipos de partes que você adiciona a um objeto</text>
+<rect x="15" y="40" width="135" height="190" fill="#fafafa" stroke="#BBBBBB" stroke-width="1" rx="6"/>
+<text x="82" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="bold">Modificador</text>
+<line x1="25" y1="190" x2="140" y2="190" stroke="#444444" stroke-width="4"/>
+<rect x="160" y="40" width="135" height="190" fill="#fafafa" stroke="#BBBBBB" stroke-width="1" rx="6"/>
+<text x="227" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="bold">Parte negativa</text>
+<line x1="170" y1="190" x2="285" y2="190" stroke="#444444" stroke-width="4"/>
+<rect x="305" y="40" width="135" height="190" fill="#fafafa" stroke="#BBBBBB" stroke-width="1" rx="6"/>
+<text x="372" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="bold">Bloqueador</text>
+<text x="372" y="236" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="bold">de suporte</text>
+<line x1="315" y1="190" x2="430" y2="190" stroke="#444444" stroke-width="4"/>
+<rect x="450" y="40" width="135" height="190" fill="#fafafa" stroke="#BBBBBB" stroke-width="1" rx="6"/>
+<text x="517" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="bold">Aplicador</text>
+<text x="517" y="236" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="bold">de suporte</text>
+<line x1="460" y1="190" x2="575" y2="190" stroke="#444444" stroke-width="4"/>
+<rect x="45" y="80" width="75" height="108" fill="#F28C28" stroke="none" stroke-width="1" rx="0"/>
+<rect x="37" y="95" width="91" height="40" fill="#2E86AB" stroke="#1b5e7a" stroke-width="1.5" rx="0"/>
+<rect x="37" y="95" width="91" height="40" fill="none" stroke="#ffffff" stroke-dasharray="4 3"/>
+<text x="82" y="120" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="normal">100% infill</text>
+<rect x="190" y="80" width="75" height="108" fill="#F28C28" stroke="none" stroke-width="1" rx="0"/>
+<circle cx="227" cy="130" r="20" fill="#ffffff" stroke="#D7263D" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="227" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#D7263D" font-weight="normal">vira furo</text>
+<polygon points="325,188 355,188 355,100 420,100 420,80 325,80" fill="#F28C28"/>
+<rect x="357" y="102" width="63" height="86" fill="#f2d0d4" stroke="#D7263D" stroke-width="1.5" rx="0"/>
+<text x="389" y="150" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#D7263D" font-weight="normal">sem</text>
+<text x="389" y="166" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#D7263D" font-weight="normal">suporte</text>
+<polygon points="470,188 500,188 500,100 565,100 565,80 470,80" fill="#F28C28"/>
+<line x1="508" y1="102" x2="508" y2="188" stroke="#2A9D4B" stroke-width="2"/>
+<line x1="518" y1="102" x2="518" y2="188" stroke="#2A9D4B" stroke-width="2"/>
+<line x1="528" y1="102" x2="528" y2="188" stroke="#2A9D4B" stroke-width="2"/>
+<line x1="538" y1="102" x2="538" y2="188" stroke="#2A9D4B" stroke-width="2"/>
+<line x1="548" y1="102" x2="548" y2="188" stroke="#2A9D4B" stroke-width="2"/>
+<line x1="558" y1="102" x2="558" y2="188" stroke="#2A9D4B" stroke-width="2"/>
+<text x="534" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#2A9D4B" font-weight="normal">força suporte</text>
+
+</svg>

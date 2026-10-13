@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="345" viewBox="0 0 600 345">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300" y="26" font-size="17" text-anchor="middle" fill="#222" font-weight="bold">Desacelerar por altura (Slow down by height)</text>
+<line x1="90" y1="260" x2="540" y2="260" stroke="#555" stroke-width="1.5"/>
+<line x1="90" y1="50" x2="90" y2="260" stroke="#555" stroke-width="1.5"/>
+<text x="315.0" y="300" font-size="14" text-anchor="middle" fill="#333">Altura Z da impressão</text>
+<text x="28" y="155.0" font-size="14" text-anchor="middle" fill="#333" transform="rotate(-90 28 155.0)">Teto de velocidade</text>
+<polyline points="90,70 200,70 400,200 540,200" fill="none" stroke="#2E86AB" stroke-width="3"/>
+<line x1="200" y1="50" x2="200" y2="260" stroke="#555" stroke-dasharray="5,4"/>
+<text x="200" y="280" font-size="13" text-anchor="middle" fill="#333">Altura inicial</text>
+<line x1="400" y1="50" x2="400" y2="260" stroke="#555" stroke-dasharray="5,4"/>
+<text x="400" y="280" font-size="13" text-anchor="middle" fill="#333">Altura final</text>
+<text x="145" y="62" font-size="13" text-anchor="middle" fill="#2E86AB">velocidade inicial</text>
+<text x="470" y="190" font-size="13" text-anchor="middle" fill="#2E86AB">velocidade final</text>
+<text x="300" y="326" font-size="13" text-anchor="middle" fill="#555">Entre as duas alturas o limite cai aos poucos; acima da final, fica fixo.</text>
+</g>
+</svg>

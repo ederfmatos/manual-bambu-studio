@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="395" viewBox="0 0 600 395">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="300" y="26" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Altura de camada variável num domo</text>
+<rect x="41.54767421334873" y="300.0" width="256.90465157330254" height="20.0" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="45.88892314062839" y="281.31614547634695" width="248.22215371874321" height="18.683854523653046" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="52.48086877031662" y="264.41894391952906" width="235.03826245936676" height="16.8972015568179" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="60.84826924494979" y="249.3890966409788" width="218.30346151010042" height="15.029847278550257" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="70.63661316973645" y="236.17328971253013" width="198.7267736605271" height="13.215806928448677" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="81.63213828751672" y="224.65262973545924" width="176.73572342496655" height="11.520659977070878" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="93.7956031744271" y="214.67721089692594" width="152.4087936511458" height="9.975418838533306" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="107.36113848114897" y="206.0861157381498" width="125.27772303770207" height="8.591095158776136" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="123.19183820698083" y="198.71935030863935" width="93.61632358603835" height="7.366765429510444" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="145.0085410816673" y="192.42481831824307" width="49.982917836665415" height="6.294531990396283" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<rect x="170.0" y="187.06211768299954" width="0.0" height="5.362700635243529" fill="#F28C28" stroke="#ffffff" stroke-width="0.8" rx="0"/>
+<path d="M40,320 A130,130 0 0 1 300,320" fill="none" stroke="#555555" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="30" y1="320" x2="310" y2="320" stroke="#444444" stroke-width="5"/>
+<text x="170" y="345" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">camadas finas onde a curva deita</text>
+<line x1="380" y1="320" x2="380" y2="60" stroke="#555555" stroke-width="1.5"/>
+<line x1="380" y1="320" x2="560" y2="320" stroke="#555555" stroke-width="1.5"/>
+<text x="470.0" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">altura da camada</text>
+<text x="370" y="52" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#222222" font-weight="normal">Z</text>
+<text x="395" y="360" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#222222" font-weight="normal">0,08</text>
+<text x="545" y="360" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#222222" font-weight="normal">0,28 mm</text>
+<polyline points="545.0,320.0 544.6,313.5 543.8,307.0 542.6,300.5 541.2,294.0 539.6,287.5 537.8,281.0 535.8,274.5 533.6,268.0 531.2,261.5 528.7,255.0 526.0,248.5 523.1,242.0 520.2,235.5 517.0,229.0 513.8,222.5 510.4,216.0 506.8,209.5 503.2,203.0 499.4,196.5 495.5,190.0 491.5,183.5 487.4,177.0 483.1,170.5 478.8,164.0 474.3,157.5 469.7,151.0 465.0,144.5 460.2,138.0 455.3,131.5 450.3,125.0 445.2,118.5 440.0,112.0 434.7,105.5 429.3,99.0 423.9,92.5 418.3,86.0 412.6,79.5 406.8,73.0 401.0,66.5 395.0,60.0" fill="none" stroke="#2E86AB" stroke-width="3"/>
+<text x="490.0" y="80" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#2E86AB" font-weight="normal">topo: fina</text>
+<text x="480.0" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#2E86AB" font-weight="normal">base: grossa</text>
+
+</svg>

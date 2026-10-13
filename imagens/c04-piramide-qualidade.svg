@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350" viewBox="0 0 600 350">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300" y="26" font-size="17" text-anchor="middle" fill="#222" font-weight="bold">O que mais pesa na qualidade visível</text>
+<polygon points="270.0,50 330.0,50 400.0,98 200.0,98" fill="#D7263D" stroke="#555555"/>
+<text x="300" y="82" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">Parede</text>
+<line x1="350" y1="75" x2="440" y2="75" stroke="#555"/>
+<text x="445" y="70" font-size="13" text-anchor="start" fill="#222">Velocidade da</text>
+<text x="445" y="87" font-size="13" text-anchor="start" fill="#222">parede externa</text>
+<polygon points="200.0,102 400.0,102 445.0,150 155.0,150" fill="#F28C28" stroke="#555555"/>
+<text x="300" y="133" font-size="13" text-anchor="middle" fill="#222" font-weight="bold">Aceleração da parede externa</text>
+<polygon points="155.0,154 445.0,154 490.0,202 110.0,202" fill="#F28C28" stroke="#555555"/>
+<text x="300" y="185" font-size="13" text-anchor="middle" fill="#222" font-weight="bold">Overhangs e pontes (desaceleração)</text>
+<polygon points="110.0,206 490.0,206 535.0,254 65.0,254" fill="#2E86AB" stroke="#555555"/>
+<text x="300" y="237" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">Superfície superior e lacunas</text>
+<polygon points="65.0,258 535.0,258 580.0,306 20.0,306" fill="#BBBBBB" stroke="#555555"/>
+<text x="300" y="289" font-size="13" text-anchor="middle" fill="#222">Paredes internas, preenchimento, suporte, deslocamento</text>
+<text x="300" y="332" font-size="13" text-anchor="middle" fill="#555">Topo: muda o que você vê. Base: muda principalmente o tempo.</text>
+</g>
+</svg>

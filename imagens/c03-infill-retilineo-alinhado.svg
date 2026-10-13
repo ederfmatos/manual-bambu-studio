@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300.0" y="28.0" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Retilíneo alinhado (Aligned Rectilinear) — vista de cima</text>
+<rect x="170" y="48" width="260" height="260" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="174" y="52" width="252" height="252" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="179" y="57" width="242" height="242" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<path d="M399.8 60.0L418.0 78.2L418.0 109.3L368.7 60.0L337.6 60.0L418.0 140.4L418.0 171.5L306.5 60.0 M275.3 60.0L418.0 202.7L418.0 233.8L244.2 60.0L213.1 60.0L418.0 264.9L418.0 296.0L182.0 60.0L182.0 91.1L386.9 296.0L355.8 296.0L182.0 122.2L182.0 153.3L324.7 296.0L293.5 296.0L182.0 184.5L182.0 215.6L262.4 296.0L231.3 296.0L182.0 246.7L182.0 277.8L200.2 296.0" fill="none" stroke="#F28C28" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="300.0" y="336.0" font-size="13" text-anchor="middle" fill="#444444">Linhas em zigue-zague sempre na mesma direção, em todas as camadas.</text>
+<text x="300.0" y="355.0" font-size="13" text-anchor="middle" fill="#444444">Formam paredes finas verticais: rápido e bonito em material translúcido.</text>
+</g>
+</svg>

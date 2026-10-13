@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="295" viewBox="0 0 600 295">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<text x="300" y="30" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Fluxo de trabalho: as três abas principais</text>
+<rect x="30" y="55" width="160" height="50" fill="#F28C28" stroke="none" stroke-width="1" rx="8"/>
+<text x="110" y="78" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#ffffff" font-weight="bold">Preparar</text>
+<text x="110" y="97" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="normal">(Prepare)</text>
+<rect x="30" y="115" width="160" height="110" fill="#ffffff" stroke="#BBBBBB" stroke-width="1.5" rx="8"/>
+<text x="110" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">importar e posicionar</text>
+<text x="110" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">escolher presets</text>
+<text x="110" y="188" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">ajustar objetos</text>
+<text x="110" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">fatiar</text>
+<rect x="220" y="55" width="160" height="50" fill="#2E86AB" stroke="none" stroke-width="1" rx="8"/>
+<text x="300" y="78" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#ffffff" font-weight="bold">Pré-visualizar</text>
+<text x="300" y="97" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="normal">(Preview)</text>
+<rect x="220" y="115" width="160" height="110" fill="#ffffff" stroke="#BBBBBB" stroke-width="1.5" rx="8"/>
+<text x="300" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">ver camadas</text>
+<text x="300" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">conferir tempo</text>
+<text x="300" y="188" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">e filamento</text>
+<text x="300" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">enviar / exportar</text>
+<rect x="410" y="55" width="160" height="50" fill="#2A9D4B" stroke="none" stroke-width="1" rx="8"/>
+<text x="490" y="78" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" fill="#ffffff" font-weight="bold">Dispositivo</text>
+<text x="490" y="97" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="normal">(Device)</text>
+<rect x="410" y="115" width="160" height="110" fill="#ffffff" stroke="#BBBBBB" stroke-width="1.5" rx="8"/>
+<text x="490" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">câmera e status</text>
+<text x="490" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">AMS e bobinas</text>
+<text x="490" y="188" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">pausar / parar</text>
+<text x="490" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#222222" font-weight="normal">temperaturas</text>
+<line x1="192" y1="80" x2="216" y2="80" stroke="#555555" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="382" y1="80" x2="406" y2="80" stroke="#555555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="300" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#555555" font-weight="normal">Fatiar leva de Preparar para Pré-visualizar;</text>
+<text x="300" y="275" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#555555" font-weight="normal">Imprimir envia o trabalho e abre a aba Dispositivo.</text>
+
+</svg>

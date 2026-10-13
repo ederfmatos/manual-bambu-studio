@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="300.0" y="28.0" font-size="17" text-anchor="middle" fill="#222222" font-weight="bold">Cúbico adaptativo (Adaptive Cubic) — vista de cima</text>
+<rect x="170" y="48" width="260" height="260" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<rect x="174" y="52" width="252" height="252" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<rect x="179" y="57" width="242" height="242" fill="none" stroke="#BBBBBB" stroke-width="4"/>
+<path d="M182.0 107.6L418.0 107.6 M182.0 178.0L418.0 178.0 M182.0 248.4L418.0 248.4 M394.5 60.0L418.0 100.8 M313.2 60.0L418.0 241.6 M231.9 60.0L368.1 296.0 M182.0 114.4L286.8 296.0 M182.0 255.2L205.5 296.0 M418.0 255.2L394.5 296.0 M418.0 114.4L313.2 296.0 M368.1 60.0L231.9 296.0 M286.8 60.0L182.0 241.6 M205.5 60.0L182.0 100.8" fill="none" stroke="#F28C28" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M182.0 90.0L418.0 90.0 M182.0 125.2L234.0 125.2 M366.0 125.2L418.0 125.2 M182.0 160.4L234.0 160.4 M366.0 160.4L418.0 160.4 M182.0 195.6L234.0 195.6 M366.0 195.6L418.0 195.6 M182.0 230.8L234.0 230.8 M366.0 230.8L418.0 230.8 M182.0 266.0L418.0 266.0 M414.8 60.0L418.0 65.6 M374.1 60.0L418.0 136.0 M333.5 60.0L363.5 112.0 M366.0 116.3L418.0 206.4 M292.8 60.0L322.9 112.0 M366.0 186.7L418.0 276.8 M252.2 60.0L282.2 112.0 M358.4 244.0L388.5 296.0 M211.5 60.0L241.6 112.0 M317.8 244.0L347.8 296.0 M182.0 79.2L234.0 169.3 M277.1 244.0L307.2 296.0 M182.0 149.6L234.0 239.7 M236.5 244.0L266.5 296.0 M182.0 220.0L225.9 296.0 M182.0 290.4L185.2 296.0 M418.0 290.4L414.8 296.0 M418.0 220.0L374.1 296.0 M418.0 149.6L366.0 239.7 M363.5 244.0L333.5 296.0 M418.0 79.2L366.0 169.3 M322.9 244.0L292.8 296.0 M388.5 60.0L358.4 112.0 M282.2 244.0L252.2 296.0 M347.8 60.0L317.8 112.0 M241.6 244.0L211.5 296.0 M307.2 60.0L277.1 112.0 M234.0 186.7L182.0 276.8 M266.5 60.0L236.5 112.0 M234.0 116.3L182.0 206.4 M225.9 60.0L182.0 136.0 M185.2 60.0L182.0 65.6" fill="none" stroke="#F28C28" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="234" y="112" width="132" height="132" fill="none" stroke="#555555" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="300.0" y="336.0" font-size="13" text-anchor="middle" fill="#444444">Células pequenas (mais densas) perto da casca da peça e células</text>
+<text x="300.0" y="355.0" font-size="13" text-anchor="middle" fill="#444444">grandes no miolo (área tracejada), onde quase não há esforço.</text>
+</g>
+</svg>
